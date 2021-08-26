@@ -1,6 +1,6 @@
 # Hypixel-friend-request-bot
 you will need to have python 3.8+, pyautogui and time installed to make this work
-# How to check if you have them installed 
+# How to check if you have them installed/ install them 
 put 
 ```
 pip install pyautogui
