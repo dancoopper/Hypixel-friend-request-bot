@@ -2,11 +2,11 @@
 you will need to have python 3.8+, pyautogui and time installed to make this work
 # How to run
 ```
-python FR bot.py
+python FR_bot.py
 ```
 or
 ```
-python3 FR bot.py
+python3 FR_bot.py
 ```
 
 in terminal
