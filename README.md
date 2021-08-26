@@ -21,6 +21,7 @@ in terminal/cmd
 
 if it says "Requirement already satisfied" or something like that you have them already
 # How to run
+put
 ```
 python FR_bot.py
 ```
